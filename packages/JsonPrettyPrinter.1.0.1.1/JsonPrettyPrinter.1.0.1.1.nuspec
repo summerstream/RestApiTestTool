@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>JsonPrettyPrinter</id>
+    <version>1.0.1.1</version>
+    <title>Json Pretty Printer</title>
+    <authors>Mark Rogers</authors>
+    <owners>Mark Rogers</owners>
+    <licenseUrl>https://github.com/m4bwav/DotNetJsonPrettyPrinter/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/m4bwav/DotNetJsonPrettyPrinter</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library is a simple and light weight json pretty printer. There are few other .net json pretty printers, but they are usually heavier and focus on some other aspect of javascript or have only been described in article format.</description>
+    <summary>Json Pretty Printer/Beautifier Library For .Net</summary>
+    <tags>json pretty-printer</tags>
+  </metadata>
+</package>

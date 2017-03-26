@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>RestSharp</id>
+    <version>100.3</version>
+    <title>RestSharp</title>
+    <authors>John Sheehan,  RestSharp Community</authors>
+    <owners>John Sheehan,  RestSharp Community</owners>
+    <licenseUrl>https://github.com/johnsheehan/RestSharp/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>http://restsharp.org/</projectUrl>
+    <iconUrl>http://restsharp.org/wp-content/uploads/restsharp-icon-32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple REST and HTTP API Client</description>
+    <summary>Simple REST and HTTP API Client</summary>
+    <tags>REST HTTP API</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="3.5.8" />
+    </dependencies>
+  </metadata>
+</package>
